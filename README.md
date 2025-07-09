@@ -131,7 +131,7 @@ Cyber-Security-Lab/
 ├── Assignment-7_Firewall.pdf
 ├── Assignment-8_John_Ripper.pdf
 ├── Assignment-9_Vulnerability_Scanner.pdf
-├── cyber_security_lab_assignments.pdf
+├── cyber security.pdf
 └── README.md
 ```
 
