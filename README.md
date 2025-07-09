@@ -1,10 +1,10 @@
-# 🛡️ Cyber Security Lab Assignments
+# 🛡️ Cyber Security Toolkit
 
 This repository contains a series of practical Cyber Security Lab Assignments implemented on a Windows 10/11 system, covering a wide range of security domains such as network diagnostics, packet analysis, digital forensics, scanning, firewalls, and password cracking using tools like Wireshark, Angry IP Scanner, Nmap, Recuva, Autopsy Sleuthkit, John the Ripper, and various online vulnerability scanners.
 
 ---
 
-## 📋 Index of Assignments
+## 📋 Index
 
 | Sr. No. | Assignment Title                          | Tool(s)/Technology Used                   |
 |---------|-------------------------------------------|-------------------------------------------|
